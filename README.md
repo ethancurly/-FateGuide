@@ -1,4 +1,4 @@
-# -FateGuide
+# FateGuide(suanmingzhun.com)
 suanmingzhun.com(人生導師/人生导师/FateGuide)
 # 🚀 【項目深度解析】AI 驅動的數據命理學：suanmingzhun.com (算準網) 的開發與未來挑戰
 
